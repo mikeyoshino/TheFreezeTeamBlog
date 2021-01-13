@@ -1,12 +1,13 @@
 Title: Find Azure DevOps User by ID
-Published: 08/27/2099
-Tags: AzureDevOps AzureArtifacts
+Image: michael-dziedzic-1bjsASjhfkE-unsplash.jpg
+Tags: 
+  - AzureDevOps 
+  - AzureArtifacts
 Author: Steven T. Cramer
-Excerpt: "User '0ec552a3-706e-462e-b46c-a488fe2dcba2' lacks permission to complete this action." Which user is that?
-Url: TheFreezeTeam.com/find-azure-user-by-id
-GUID: dfab9cef-da26-4d78-96e8-2721b4ec7f77
-
+Published: 08/27/2020
 ---
+
+
 ## The scenario
 
 In the `Development` stage of my Azure Release process, I want to deploy a NuGet package to Azure Artifacts.  If all looks good, I can approve the push to production, which deploys it to NuGet.
