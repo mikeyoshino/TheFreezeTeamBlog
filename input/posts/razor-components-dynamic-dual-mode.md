@@ -1,4 +1,5 @@
 Title: Blazor Dynamic Dual Mode!
+Published: 02/20/2019
 Tags: 
   - CSharp 
   - Blazor 
@@ -6,7 +7,8 @@ Tags:
   - Blazor-State
 Author: Steven T. Cramer
 Image: DynamicDualMode.png
-
+Description: Wouldn't it be nice to have both fast first page load and allow for more scalability by running on the client?
+Excerpt: Wouldn't it be nice to have both fast first page load and allow for more scalability by running on the client?
 ---
 
 ## 

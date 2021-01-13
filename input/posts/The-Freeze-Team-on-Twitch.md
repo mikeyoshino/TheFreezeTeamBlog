@@ -1,10 +1,12 @@
 Title: The Freeze Team on Twitch
+Published: 03/22/2019
 Tags: 
   - Cypto 
   - Twitch 
 Author: Steven T. Cramer
 Image: Freeze-Team-on-Twitch.jpg
-
+Excerpt: Come join us as we wield the powers of SOLID to vanquish our LIQUID foes.
+Description: Come join us as we wield the powers of SOLID to vanquish our LIQUID foes.
 ---
 
 Come join us as we wield the powers of SOLID to vanquish our LIQUID foes.

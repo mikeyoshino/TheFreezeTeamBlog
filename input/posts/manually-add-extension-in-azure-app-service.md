@@ -1,10 +1,12 @@
 Title: Manually add Extension in Azure App Service
+Published: 03/30/2019
 Tags: 
   - Azure
   - Blazor
 Author: Steven T. Cramer
 Image: ManuallyAddAzureExtension.png
-
+Description: Use Kudu to manually install an Azure App Service Extension
+Excerpt: Use Kudu to manually install an Azure App Service Extension
 ---
 
 

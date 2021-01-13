@@ -1,12 +1,14 @@
 ﻿Title: Expand the OS Drive on your Azure Resource Manager VM
+Published: 01/15/2017
 Tags: 
   - CSharp 
 Author: Steven T. Cramer
-
+Description: This can be done via the portal by simply Stop and Deallocate the system and then select the drive and choose a larger size.
+Excerpt: This can be done via the portal by simply Stop and Deallocate the system and then select the drive and choose a larger size.
 
 ---
 
-This can be done via the portal by simply `Stop` and Deallocate the system and then select the drive and choose a larger size.
+This can be done via the portal by simply Stop and Deallocate the system and then select the drive and choose a larger size.
 
 ![](/content/images/2017/01/2017-01-20_1658.png)
 

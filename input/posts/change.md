@@ -1,9 +1,12 @@
 Title: Change Visual Studio 2015 Default Templates
+Published: 06/15/2016
 Tags: 
   - VisualStudio5
   - C# 
   - Template 
 Author: Steven T. Cramer
+Description: I prefer my using statements inside my namespace.  But the default class Template for a web application generates like the following.
+Excerpt: I prefer my using statements inside my namespace.  But the default class Template for a web application generates like the following.
 
 ---
 I prefer my `using` statements inside my namespace.  But the default class Template for a web application generates like the following:

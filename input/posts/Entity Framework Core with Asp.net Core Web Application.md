@@ -1,11 +1,15 @@
 Title: Entity Framework Core with Asp.net Core Web Application
+Published: 01/05/2021
 Tags:
   - CSharp
   - Entity Framerwork
   - ASP.NET Core
 
 Image: ef-core-featured.png
+Description: Step by step to use entity framework in ASP.NET Core
+Excerpt: Step by step to use entity framework in ASP.NET Core
 Author: Mike Yoshino
+
 ---
 # Install Entity Framework Package
 

@@ -1,9 +1,11 @@
 Title: Exercism CSharp Track
+Published: 05/31/2019
 Tags: 
   - C# 
   - Kata 
 Image: Exxxx.jpg
-
+Description: I'm recording my progress working through the csharp track of Ecercism.io
+Excerpt: I'm recording my progress working through the csharp track of Ecercism.io
 ---
 
 #  Problem One "Hello, World!"

@@ -1,4 +1,5 @@
 Title: Building MVC Jimmy Style
+Published: 08/10/2015
 Tags: 
   - C# 
   - Jbogard 
@@ -6,8 +7,8 @@ Tags:
   - Features
   - AutoMapper
 Author: Steven T. Cramer
-Image: noimage.jpg
-
+Description: This blog is a step by step tutorial that transforms a default MVC 5 application into Jimmy Bogard's Feature-oriented configuration
+Excerpt: This blog is a step by step tutorial that transforms a default MVC 5 application into Jimmy Bogard's Feature-oriented configuration
 ---
 
 This blog is a step by step tutorial that transforms a default MVC 5 application into [Jimmy Bogard's](https://lostechies.com/jimmybogard/) Feature-oriented configuration as described in his [presentation](https://lostechies.com/jimmybogard/2015/07/02/ndc-talk-on-solid-in-slices-not-layers-video-online/). His sample project located [here](https://github.com/jbogard/ContosoUniversity "here") was used to guide the way.  The VSIX package and source code of this presentation are available 

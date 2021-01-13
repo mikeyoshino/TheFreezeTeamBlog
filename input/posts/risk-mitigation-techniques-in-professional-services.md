@@ -1,8 +1,11 @@
 Title: Risk Mitigation Techniques in Professional Services
+Published: 03/03/2019
 Tags: 
   - C#
 Author: Steven T. Cramer
 Image: RiskMitigation.png
+Description: Improve the working relationships between the people that write software and the people that want the software.
+Excerpt: Improve the working relationships between the people that write software and the people that want the software.
 ---
 
 I am trying to improve the working relationships between the people that write software and the people that want the software to be written. The goal is to better meet the desired outcomes of both.  The marketplace is about fulfilling people's wants, both the buyer and the seller. Voluntary transactions in the marketplace only occur when the trust between the parties is sufficient to believe both parties’ desires will be met.

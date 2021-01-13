@@ -1,8 +1,10 @@
 Title: Visual Studio Team Services (VSTS) Minimal Scrum Template
+Published: 02/28/2018
 Tags: 
   - CSharp 
 Author: Steven T. Cramer
-
+Description: That definition is generic enough to mean almost anything or nothing and in practice that is often how it turns out. This blog is to explain our starting point with the VSTS templates.
+Excerpt: That definition is generic enough to mean almost anything or nothing and in practice that is often how it turns out. This blog is to explain our starting point with the VSTS templates.
 
 ---
 

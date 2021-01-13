@@ -3,7 +3,7 @@ Published: 08/27/2019
 Tags: CSharp Blazor
 Author: Steven T. Cramer
 Excerpt: We have added an End to End testing project using TestCafe as an option to existing Selenium test project.
-GUID: 86b2653c-aceb-438d-8055-b57847e4575f
+Description: We have added an End to End testing project using TestCafe as an option to existing Selenium test project.
 ---
 
 Today we shipped a new updated timewarp-blazor template that now includes a TestCafe End-To-End test project.

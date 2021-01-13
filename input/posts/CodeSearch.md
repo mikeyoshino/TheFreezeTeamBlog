@@ -1,10 +1,12 @@
 Title: Code Search that will give you superpowers
+Published: 07/10/2019
 Tags: 
   - DeveloperTools 
   - CodeSearch 
 Author: Steven T. Cramer
 Image: Sourcegraph.png
-
+Description: The Freeze Team is disseminating the Code Search Superpower. Come see how you too can wield it!
+Excerpt: The Freeze Team is disseminating the Code Search Superpower. Come see how you too can wield it!
 ---
 
 Scenarios where superpowers would be handy!

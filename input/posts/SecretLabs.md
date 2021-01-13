@@ -4,7 +4,8 @@ Tags:
  - OfficeChair 
  - Ergonomic
 Author: Steven T. Cramer
-Image: noimage.jpg
+Description: The Titan Office Chair By SecretLabs
+Excerpt: The Titan Office Chair By SecretLabs
 ---
-Writing Something Here
+The Titan Office Chair By SecretLabs
 

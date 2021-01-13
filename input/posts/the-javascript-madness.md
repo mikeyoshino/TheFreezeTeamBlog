@@ -1,7 +1,10 @@
 ﻿Title: The JavaScript Madness Part 1 - Environment
+Published: 01/15/2017
 Tags: 
   - CSharp 
 Author: Steven T. Cramer
+Description: Create Azure Windows 10 VM with VS2017RC Size Standard DS2 v2  This should do. Add Data Disk to VM via Azure. 
+Excerpt: Create Azure Windows 10 VM with VS2017RC Size Standard DS2 v2 This should do. Add Data Disk to VM via Azure. 
 ---
 
 

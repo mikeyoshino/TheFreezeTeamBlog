@@ -1,15 +1,13 @@
-Title:
+Title: ApplicationUser
 Tags: 
   - CSharp 
   - Blazor 
   - dotnetcore 
   - Blazor-State
 Author: Steven T. Cramer
-Excerpt: ReduxDevTools off by default.
-Url: TheFreezeTeam.com/blazor-state-2-0-release
-Image: noimage.jpg
-
+Excerpt: ApplicationUser
+Published: 03/12/2099
 ---
 
-Blazor State 2.0 is released.
+ApplicationUser
 

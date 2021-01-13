@@ -1,10 +1,12 @@
 ﻿Title: The JavaScript Madness Part 2 - Execute js file from command line
+Published: 02/18/2018
 Tags: 
   - nodeJs 
   - Javascript 
 Author: Steven T. Cramer
 Image: Madness.png
-
+Excerpt: Execute js file from command line using node.
+Description: Execute js file from command line using node.
 ---
 
 

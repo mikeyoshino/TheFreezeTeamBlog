@@ -3,7 +3,6 @@ Published: 01/01/2099
 Tags: Solidity Truffle TruffleSuite Nethereum Ethereum SmartContract
 Author: Steven T. Cramer
 Excerpt: 
-Image: noimage.jpg
 ---
 
 ![][SuperheroSmartContractsImage]

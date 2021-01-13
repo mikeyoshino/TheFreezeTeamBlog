@@ -1,8 +1,10 @@
 Title: Change your Windows 10 Azure VM RDP port
+Published: 01/20/2017
 Tags: 
   - Azure 
 Author: Steven T. Cramer
-
+Description: First of all to all the security guys out there. Increasing functionality securely is the goal.  Just turning all the computers off and disconnecting the internet is secure.
+Excerpt: First of all to all the security guys out there. Increasing functionality securely is the goal.  Just turning all the computers off and disconnecting the internet is secure.
 
 ---
 

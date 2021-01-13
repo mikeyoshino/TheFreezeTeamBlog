@@ -1,10 +1,12 @@
 Title: Allow serving of js, ts, css and map files from Views folder.
+Published: 04/28/2016
 Tags: 
   - TypeScript 
   - MVC5 
   - Javascript 
 Author: Steven T. Cramer
-
+Description: In a traditional MVC 5 application structure you can not access css or js files located in the view directory.
+Excerpt: In a traditional MVC 5 application structure you can not access css or js files located in the view directory.
 ---
 
 In a traditional MVC 5 application structure you can not access css or js files located in the view directory.

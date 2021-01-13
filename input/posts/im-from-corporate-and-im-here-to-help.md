@@ -1,11 +1,13 @@
 Title: I'm from Corporate and I'm here to Help!
+Published: 02/26/2019
 Tags: 
   - React-Native 
   - Javascript 
   - NodeJS 
-Author: Steven T. Cramer
+Author: Stefan Bemelmans
 Image: 010.jpg
-
+Description: There's a certain threshold of size and complexity that if you keep on the right side of you can assuredly never be bothered with how your files are arranged. 
+Excerpt: There's a certain threshold of size and complexity that if you keep on the right side of you can assuredly never be bothered with how your files are arranged. 
 
 ---
 When I first learned web development I was focused more on the content of the files and not necessarily the where and the why the files were in the places they were. This worked out for a little while. There's a certain threshold of size and complexity that if you keep on the right side of you can assuredly never be bothered with how your files are arranged. 

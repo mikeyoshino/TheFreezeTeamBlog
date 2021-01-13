@@ -5,8 +5,7 @@ Tags: C
   - Blazor
 Author: Steven T. Cramer
 Excerpt: With Custom model binding eliminate controllers.
-Image: noimage.jpg
-
+Description: With Custom model binding eliminate controllers.
 ---
 
 ## Custom Model Binding the basics.

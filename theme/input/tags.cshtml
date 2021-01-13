@@ -37,7 +37,7 @@ ArchiveTitle: => GetString("GroupKey")
                 @foreach (IDocument tag in Document.GetChildren().OrderByDescending(x => x.GetChildren().Count()))
                 {
                     string postCount = tag.GetChildren().Count().ToString();
-                    <a role="button" href="@Context.GetLink(tag)" class="bg-gray-100 rounded p-2 w-max text-black hover:bg-gray-300 transition duration-500 ease-in-out mr-2"> @tag.GetTitle() (@postCount)</a>
+                    <a role="button" href="@Context.GetLink(tag)" class="bg-gray-100 rounded p-2 w-max text-black hover:bg-gray-300 transition duration-500 ease-in-out mr-2 mb-4"> @tag.GetTitle() (@postCount)</a>
                 }
             }
         </div>

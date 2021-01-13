@@ -1,4 +1,5 @@
 Title: A Testing Convention for Fixie with Dependency Injection support
+Published: 01/29/2019
 Tags: 
   - Fixie 
   - Testing 
@@ -6,7 +7,8 @@ Tags:
   - C#
 Author: Steven T. Cramer
 Image: TestingConvention.png
-
+Excerpt: A dotnet core Testing Convention for Fixie that supports Dependency Injection
+Description: A dotnet core Testing Convention for Fixie that supports Dependency Injection
 ---
 
 I utilize [Fixie](http://fixie.github.io/) for my dotnet core unit and integration testing.

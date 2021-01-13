@@ -1,8 +1,10 @@
 Title: Break It Down
+Published: 03/14/2019
 Tags: 
   - C#
 Author: Steven T. Cramer
-
+Description: Refactoring a large function using the Single Responsibility Principle.
+Excerpt: Refactoring a large function using the Single Responsibility Principle.
 ---
 I was recently refactoring a project that relied on a single function to handle a myriad of API calls and database gets and sets. It was, and still is an impressive piece of work and functions perfectly well. As a member of the Freeze Team I have been learning about the "Single Responsibility Principle" and when I came across this function I found it a great opportunity to practice what I've learned.
 

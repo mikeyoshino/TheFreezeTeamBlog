@@ -1,11 +1,13 @@
 Title: More Better UI
+Published: 12/17/2019
 Tags: 
   - Design 
   - UI 
   - Adobe XD 
 Author: Steven T. Cramer
 Image: BetterUi.jpg
-
+Description: Design has always been a weak point of mine so in my constant effort to attain human perfection I'm going to attempt to develop my skills!
+Excerpt: Design has always been a weak point of mine so in my constant effort to attain human perfection I'm going to attempt to develop my skills!
 ---
 
 Design has always been a weak point of mine so in my constant effort to attain human perfection I'm going to attempt to develop my skills! I found this site [DailyUi](https://www.dailyui.co/) and the gist is they email you a UI task daily and you create your solution and either tweet it or post it on Dribble tagging them. The more you do this, it increases your chances of getting offerred a free UI resource and allegedly increases your proficiency at UI Design.  

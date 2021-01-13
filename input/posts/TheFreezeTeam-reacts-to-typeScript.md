@@ -1,10 +1,12 @@
 Title: TheFreezeTeam Reacts to TypeScript
+Published: 04/10/2016
 Tags: 
   - React 
   - Typescript 
   - MVC5 
 Author: Steven T. Cramer
-
+Description: So let's write a simple hello world app.  Using Typescript 1.8 and React in Visual Studio 2015 Update 2. .Net 4.5.2 (MVC 5).
+Excerpt: So let's write a simple hello world app.  Using Typescript 1.8 and React in Visual Studio 2015 Update 2. .Net 4.5.2 (MVC 5).
 ---
 
 So let's write a simple hello world app.  Using Typescript 1.8 and React in Visual Studio 2015 Update 2. .Net 4.5.2 (MVC 5).

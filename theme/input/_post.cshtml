@@ -4,12 +4,6 @@
     string excerpt = Model.GetString(Statiq.Html.HtmlKeys.Excerpt);
     string imageUrl = "/images/" + Model.GetString(WebKeys.Image);
     int readTime = excerpt.Length / 100;
-    var description = excerpt == null
-        ? string.Empty
-        : excerpt.Substring(0, Math.Min(200, excerpt.Length));
-    var removeFirstThree = description.Remove(0, 3);
-    var removeLastTheree = removeFirstThree.Remove(removeFirstThree.Length - 4, 4);
-    var context = removeLastTheree.Replace("<code>", "").Replace("</code>", "").Replace("<p>", "").Replace("</p>","");
 }
 
 <a href="@Context.GetLink(Model)" class="flex flex-wrap no-underline hover:no-underline">
@@ -19,20 +13,20 @@
             {
                 <img src="@imageUrl" class="h-64 w-full rounded-t object-cover">
             }
-            <p class="w-full text-gray-600 text-xs md:text-sm px-6">
-                @*@Model.GetDateTime(WebKeys.Published).ToLongDateString()*@
-                @if (Document.ContainsKey("Tags"))
-                {
-                    @foreach (IDocument tag in Document.GetList<string>("Tags")
-                  .Select(x => Outputs["tags.html"].First().GetChildren().FirstOrDefault(y => y.GetTitle().Equals(x, StringComparison.OrdinalIgnoreCase)))
-                  .Where(x => x != null))
-                    {
-                        <a href="@Context.GetLink(tag)"> @tag.GetTitle()</a>
-                    }
-                }
-            </p>
-            <div class="w-full font-bold text-xl text-gray-900 px-6 pt-8">@Html.DocumentLink(Model)</div>
-            <p class="text-gray-800 font-serif text-base px-6 mb-5">@context ...</p>
+        <p class="w-full text-gray-600 text-xs md:text-sm px-6">
+          @*@Model.GetDateTime(WebKeys.Published).ToLongDateString()*@
+          @if (Document.ContainsKey("Tags"))
+          {
+            @foreach (IDocument tag in Document.GetList<string>("Tags")
+         .Select(x => Outputs["tags.html"].First().GetChildren().FirstOrDefault(y => y.GetTitle().Equals(x, StringComparison.OrdinalIgnoreCase)))
+         .Where(x => x != null))
+            {
+              <a href="@Context.GetLink(tag)"> @tag.GetTitle()</a>
+            }
+          }
+        </p>
+            <div class="w-full font-bold text-xl text-gray-900 px-6 pt-4">@Html.DocumentLink(Model)</div>
+            <p class="text-gray-800 font-serif text-base px-6 pt-4 mb-5">@excerpt</p>
         </div>
         <div class="flex-none mt-auto bg-white rounded-b rounded-t-none overflow-hidden shadow-lg p-6">
             <div class="flex items-center justify-between">

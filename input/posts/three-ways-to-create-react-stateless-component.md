@@ -1,9 +1,11 @@
 Title: Three ways to create React Stateless Components in TypeScript
+Published: 01/19/2017
 Tags: 
   - Typescript 
 
 Author: Steven T. Cramer
-
+Excerpt: The Airbnb guidelines show three ways to implement a stateless React component using ES6 JavaScript. 
+Description: The Airbnb guidelines show three ways to implement a stateless React component using ES6 JavaScript. 
 ---
 
 The Airbnb [guidelines](https://github.com/airbnb/javascript/tree/master/react#class-vs-reactcreateclass-vs-stateless) show three ways to implement a stateless React component using ES6 JavaScript. They make recommendations on which to use but this post is just to show the corresponding TypeScript equivalents.

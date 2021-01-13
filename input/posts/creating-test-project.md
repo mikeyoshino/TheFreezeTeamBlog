@@ -1,3 +1,4 @@
+Title: ReduxDevTools off by default.
 Published: 10/28/2099
 Tags: 
   - CSharp 
@@ -5,10 +6,9 @@ Tags:
   - dotnetcore 
   - Blazor-State
 Author: Steven T. Cramer
-Excerpt: ReduxDevTools off by default.
 Url: TheFreezeTeam.com/blazor-state-2-0-release
-Image: noimage.jpg
-
+Excerpt: ReduxDevTools off by default.
+Description: ReduxDevTools off by default.
 ---
 
 Blazor State 2.0 is released.

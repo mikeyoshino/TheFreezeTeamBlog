@@ -1,9 +1,11 @@
 Title: Back to the Beginning
+Published: 04/12/2019
 Tags: 
   - Java
 Author: Steven T. Cramer
 Image: backToBeginning.png
-
+Description: the environment in which the coding happens isn't the same ...as... React and React Native.  I decided it would be fun to detail the setup process.
+Excerpt: the environment in which the coding happens isn't the same ...as... React and React Native.  I decided it would be fun to detail the setup process.
 ---
 I have started a new front-end project, and lo and behold, the project is written in Java with JSP files!
 I chuckle to myself because Java was the first language I learned way back in 1995, and after a short score as a chef , I'm working with it again! Full circle. 

@@ -1,10 +1,12 @@
 Title: Blazor Hosting Location
+Published: 03/31/2019
 Tags: 
   - Blazor
   - C#
 Author: Steven T. Cramer
 Image: BlazorHostingLocation.png
-
+Description: Here is a handy class that you can use in Blazor to determine if you are executing client-side or server-side. Its included in Blazor-State
+Excerpt: Here is a handy class that you can use in Blazor to determine if you are executing client-side or server-side. Its included in Blazor-State
 ---
 # Client-side or Server-side
 Thanks to the AspNetCore Team for changing the name back to Blazor!

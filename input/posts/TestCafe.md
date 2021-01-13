@@ -4,6 +4,7 @@ Image: noimage.jpg
 Tags: CSharp
 Author: Steven T. Cramer
 Excerpt: If you like closures use Cypress otherwise us TestCafe
+Description: If you like closures use Cypress otherwise us TestCafe
 ---
 
 Selenium is causing my CI/CD to break this weekend because the process won't properly shutdown,

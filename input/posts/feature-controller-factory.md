@@ -1,8 +1,10 @@
 Title: Controller Controller where art thou Controller?  (Feature Controller Factory)
+Published: 08/24/2016
 Tags: 
   - C#
 Author: Steven T. Cramer
-
+Description: All Controllers are located in a Controllers folder and must end with the name Controller.
+Excerpt: All Controllers are located in a Controllers folder and must end with the name Controller.
 ---
 
 #Goal:

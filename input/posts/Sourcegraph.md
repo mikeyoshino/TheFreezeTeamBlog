@@ -6,6 +6,7 @@ Tags:
   - CodeSearch
 Author: Steven T. Cramer
 Excerpt: The Freeze Team is disseminating the Code Search Superpower. Come see how you too can wield it!
+Description: The Freeze Team is disseminating the Code Search Superpower. Come see how you too can wield it!
 ---
 
 ![][SourcegraphImage]

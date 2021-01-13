@@ -1,9 +1,11 @@
 Title: Premature Optimization?
+Published: 03/13/2019
 Tags: 
   - C#
 Author: Steven T. Cramer
 Image: PrematureOptimization.png
-
+Description: I am not fan of the "premature optimization" phrase. The phrase is subjective, and begs the question; "what is premature?
+Excerpt: I am not fan of the "premature optimization" phrase. The phrase is subjective, and begs the question; "what is premature?
 ---
 
 I am not fan of the "premature optimization" phrase.

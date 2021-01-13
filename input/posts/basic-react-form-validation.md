@@ -1,8 +1,11 @@
 Title: Basic React Form Validation
+Published: 03/21/2019
 Tags: 
   - React
 Author: Steven T. Cramer
 Image: ContactUsForm.gif
+Description: It turns out that HTML5 isn't bad at single property validation.
+Excerpt: It turns out that HTML5 isn't bad at single property validation.
 ---
 
 
